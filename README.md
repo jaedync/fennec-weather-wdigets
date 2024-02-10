@@ -1,21 +1,6 @@
 # fennec-weather-widgets
 A few IOS Scriptable widgets that make monitoring LETU weather visible and convenient!
 
-<style>
-    .image-container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin-bottom: 10px;
-    }
-
-    .image-container img {
-        max-width: 95%;
-        border-radius: 5px;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    }
-</style>
-
 <div class="image-container">
     <img src="images/IMG_3124.jpg" alt="Lock Screen Widget">
 </div>
