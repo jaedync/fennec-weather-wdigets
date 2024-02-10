@@ -1,4 +1,4 @@
-# fennec-weather-wdigets
+# fennec-weather-widgets
 A few IOS Scriptable widgets that make monitoring LETU weather visible and convenient!
 
 <style>
